@@ -90,7 +90,7 @@ By combining **Python’s analytical power** with **Power BI’s visualization c
 ## 👨‍💻 Author
 **Aayush Kumar Singh**  
 🔗 [GitHub](https://github.com/Aayush9-spec)  
-📧 aayushksingh@example.com *(replace with your real contact if desired)*  
+📧 aayush03061102@gmail.com *(replace with your real contact if desired)*  
 
 ---
 
